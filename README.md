@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Shahriar Soudeep.
 
 # About Me:
-I am a BSc in Computer Science graduate with hands-on experience in developing AI applications, solving complex business problems with machine learning and data analysis, and creating impactful data visualizations.Seeking for a Data Scientist or Machine Learning Engineer and Data Analyst role to leverage my skills in AI, BI, predictive modeling, and data warehousing to drive business success.Currently learning machine learning engineering and working on numerous projects involving various datasets. My internship includes a survey-based paper focused on Transformer learning, and my thesis involves an implementation-based project on fake news detection with sentiment analysis using machine learning algorithms. Passionate, punctual, and enthusiastic about pursuing a career in machine learning engineering.
+I am a BSc in Computer Science graduate with hands-on experience in developing AI applications, solving complex business problems with machine learning and data analysis, and creating impactful data visualizations.Seeking for a Data Scientist or Machine Learning Engineer, Computer Vision, Deep Learning and Data Analyst role to leverage my skills in AI, BI, predictive modeling, and data warehousing to drive business success.Currently learning machine learning engineering and working on numerous projects involving various datasets. My internship includes a survey-based paper focused on Transformer learning, and my thesis involves an implementation-based project on fake news detection with sentiment analysis using machine learning algorithms. Passionate, punctual, and enthusiastic about pursuing a career in machine learning engineering.
 
 
 ## 🌐 Socials:
