@@ -125,7 +125,7 @@ Tech: FastAPI, TensorFlow, Computer Vision
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soudeep.cse@gmail.com)
 
 📍 Location: Dhaka, Bangladesh  
-📧 Email: soudeep.cse@gmail.com  
+📧 Email: s.shahriar32322323@gmail.com & soudeep.cse@gmail.com  
 📱 Phone: +880 1635-851841
 
 ---
